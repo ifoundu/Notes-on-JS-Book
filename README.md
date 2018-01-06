@@ -1,2 +1,3 @@
-# Notes-on-JS-The-Definitive-Guide-
-&lt;JavaScript: The Definitive Guide>,notes,personal comprehension on reading and learning, in Chinese
+# notes of personal comprehension 
+
+on reading and learning <JavaScript: The Definitive Guide> , in Chinese
